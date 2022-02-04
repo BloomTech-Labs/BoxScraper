@@ -1,5 +1,5 @@
 # Onetime Setup
-1. Install Docker Desktop
+- Install Docker Desktop
 
 # Run the BoxScraper
 - Run Docker Desktop 
