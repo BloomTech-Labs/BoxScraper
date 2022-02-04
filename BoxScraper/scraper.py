@@ -59,4 +59,4 @@ if __name__ == '__main__':
     data = mongo.connect().find({}, {"_id": False, "box_id": True})
     finished_data = {record["box_id"] for record in data}
     print("Ready!\n")
-    scrape_box(finished_data, folder_id="129133191949")
+    scrape_box(finished_data, folder_id="0")
