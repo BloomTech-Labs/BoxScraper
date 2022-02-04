@@ -7,7 +7,6 @@
    - https://app.box.com/developers/console/app/1646792/configuration
 - From the Terminal on Linux, WSL, Gitbash or Unix (macOS)
 ```shell
-cd BoxScraper
 ./run.sh
 ```
 - For Windows run the following instead
